@@ -1,6 +1,6 @@
-# Graduate "For You" Page Template
+# Graduate FYP Template
 
-This repository contains a customizable "For You" page template, designed for personal use or graduation portfolio websites. The template includes basic layout structures, styling, and simple interactivity.
+This repository contains a customizable For You Page "FYP" template, designed for personal use or graduation portfolio websites. The template includes basic layout structures, styling, and simple interactivity.
 
 ## Features
 - Responsive design for mobile and desktop views
@@ -20,7 +20,8 @@ This repository contains a customizable "For You" page template, designed for pe
     cd fyp
     ```
 
-2. **Edit the template**: Open `index.html` to update your content, or modify the `style.css` for custom styling.
+2. **Edit the template**: Open `index.html` to update your content and style data.
+NOTE: All style data is stored within the .html file. If needed, HTML and CSS can be split, modified, and added to a `style.css` for css styling.
    
 3. **Preview the page**: Open `index.html` in your browser to see the page in action.
 
@@ -32,7 +33,8 @@ This repository contains a customizable "For You" page template, designed for pe
 
 ## Example
 
-Here is a quick preview of what your "For You" page will look like before updating the template:
+Here is a quick preview of what your FYP will look like before updating the template:
+
 ![Screenshot](/src/screenshots/screenshot.png)
 
 ## License
