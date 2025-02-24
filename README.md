@@ -1,6 +1,6 @@
 # Graduate "For You" Page Template
 
-This repository contains a customizable "For You" page template, designed for personal use or graduation portfolio websites. The template includes basic layout structures, styling, and simple interactivity.
+This repository contains a customizable For You Page "FYP" template, designed for personal use or graduation portfolio websites. The template includes basic layout structures, styling, and simple interactivity.
 
 ## Features
 - Responsive design for mobile and desktop views
@@ -32,7 +32,7 @@ This repository contains a customizable "For You" page template, designed for pe
 
 ## Example
 
-Here is a quick preview of what your "For You" page will look like before updating the template:
+Here is a quick preview of what your FYP will look like before updating the template:
 ![Screenshot](/src/screenshots/screenshot.png)
 
 ## License
