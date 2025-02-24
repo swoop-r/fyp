@@ -20,7 +20,8 @@ This repository contains a customizable For You Page "FYP" template, designed fo
     cd fyp
     ```
 
-2. **Edit the template**: Open `index.html` to update your content, or modify the `style.css` for custom styling.
+2. **Edit the template**: Open `index.html` to update your content and style data.
+NOTE: All style data is stored within the .html file. If needed, HTML and CSS can be split, modified, and added to the `style.css` for css styling.
    
 3. **Preview the page**: Open `index.html` in your browser to see the page in action.
 
