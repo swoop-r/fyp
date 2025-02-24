@@ -34,6 +34,7 @@ NOTE: All style data is stored within the .html file. If needed, HTML and CSS ca
 ## Example
 
 Here is a quick preview of what your FYP will look like before updating the template:
+
 ![Screenshot](/src/screenshots/screenshot.png)
 
 ## License
