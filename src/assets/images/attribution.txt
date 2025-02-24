@@ -1,0 +1,12 @@
+Attribution for Icons and Images:
+
+The following icons were sourced from Flaticon.com:
+
+- GitHub icon: Flaticon.com  
+- Mail icon: Flaticon.com  
+- LinkedIn icon: Flaticon.com  
+- Encrypted (PGP) icon: Flaticon.com  
+
+This template has been designed using resources from Flaticon.com.
+
+The profile image (profile.png) was sourced from Wikimedia Commons.

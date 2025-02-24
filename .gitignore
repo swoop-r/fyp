@@ -1,0 +1,24 @@
+# Node.js (if you decide to add any dependencies or run a dev server)
+node_modules/
+
+# Log files
+*.log
+
+# System files
+.DS_Store           # macOS
+Thumbs.db           # Windows
+
+# IDE/editor files
+.vscode/            # VS Code settings
+.idea/              # JetBrains IDEs (IntelliJ, WebStorm, etc.)
+
+# Build and package files (if applicable in the future)
+dist/
+build/
+
+# Temporary files
+*.swp               # Vim
+*.bak               # Backup files
+
+# Operating system files
+Desktop.ini         # Windows

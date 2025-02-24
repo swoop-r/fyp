@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Graduate Homepage</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        header {
+            background-color: #990000; /* Change to match your university's primary color */
+            color: #fff;
+            padding: 15px;
+            font-size: 22px;
+            text-align: center;
+            width: 100%;
+            margin-bottom: 10px;
+        }
+
+        .main-container {
+            display: flex;
+            flex-direction: row;
+            justify-content: flex-start;
+            width: 100%;
+            max-width: 1000px;
+            gap: 15px;
+            padding: 0;
+            margin: 0;
+        }
+
+        .sidebar {
+            width: 200px;
+            padding: 10px;
+            background-color: #ece2d0; /* Adjust if needed */
+            text-align: left;
+            margin: 0;
+        }
+
+        .sidebar a {
+            display: flex;
+            align-items: center;
+            color: #990000; /* Change to match university color */
+            text-decoration: none;
+            margin: 10px 0;
+            font-size: 16px;
+        }
+        
+        .sidebar a:hover {
+            color: #ff6600; /* Adjust hover color if needed */
+        }
+        
+        .nav-icon {
+            width: 20px;
+            height: 20px;
+            margin-right: 10px;
+        }
+        
+        .content {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            max-width: 800px;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            margin: 0;
+        }
+
+        .content h2 {
+            font-size: 24px;
+            color: #990000;
+            margin-bottom: 10px;
+            font-weight: bold;
+        }
+
+        .profile-img {
+            width: 120px;
+            height: 120px;
+            border-radius: 8px;
+            margin-top: 10px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        footer {
+            background-color: #ece2d0;
+            padding: 8px;
+            margin-top: 15px;
+            text-align: center;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        Graduate Student Homepage
+    </header>
+    <div class="main-container">
+        <div class="sidebar">
+            <h2>Quick Links</h2>
+            <a href="https://github.com/" target="_blank">
+                <img src="assets/images/github-icon.png" alt="GitHub" class="nav-icon"> GitHub
+            </a>
+            <a href="https://linkedin.com/" target="_blank">
+                <img src="assets/images/linkedin-icon.png" alt="LinkedIn" class="nav-icon"> LinkedIn
+            </a>
+            <a href="mailto:your-email@example.com">
+                <img src="assets/images/contact-icon.png" alt="Contact" class="nav-icon"> Contact Me
+            </a>
+            <a href="https://keys.openpgp.org/" target="_blank">
+                <img src="assets/images/pgp-icon.png" alt="PGP Fingerprint" class="nav-icon"> PGP Fingerprint
+            </a>
+        </div>
+
+        <div class="content">
+            <h2>Your Name</h2>
+            <img src="assets/images/profile.png" alt="Your Profile Image" class="profile-img">
+            <p>Welcome to my personal homepage. More updates coming soon!</p>
+            <p>Your University | Your Degree Program</p>
+        </div>
+        
+        <div class="content">
+            <h2>About Me</h2>
+            <div class="about-section">
+                <div class="about-item">
+                    <strong>Background:</strong>
+                    <p>Relevant areas of study, interests, and expertise</p>
+                </div>
+                <div class="about-item">
+                    <strong>Research:</strong>
+                    <p>Current research focus, special projects, or interests</p>
+                </div>
+                <div class="about-item">
+                    <strong>Skills:</strong>
+                    <p>Programming languages, frameworks, security tools, etc.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer>
+        &copy; 2025 Your Name | your-email@example.com
+    </footer>
+</body>
+</html>
